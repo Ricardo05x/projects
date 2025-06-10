@@ -1,16 +1,20 @@
-# projects
+# Projek-Uas-Mdi-Flutter
+a. Ricardo Valentino Simanjuntak (2390343108)
 
-A new Flutter project.
+b. Membuat To-Do List Flutter
 
-## Getting Started
+c. Terdapat Login, Register yang dimana ketika kita register nanti data nya akan langsung masuk ke firebase dan juga terdapat google sign in, lalu juga di dalam nya terdaoat add task yang bisa menambahkan task/kegiatan, ada juga penambana deskripsi pada tasknya, lalu yang terakhir ada calendar atau google calendar nya.
 
-This project is a starting point for a Flutter application.
+d. -firebase untuk local storge pada data kita
+   -google cloud console agar kita bisa menambahkan google calendar dan google sign in nya
+   -flutter untuk meruba desain dan logika nya
+   
+e. jalankan flutter run lalu pilih browser yang ingin digunakan dengan memilih angka 1,2 dan 3
 
-A few resources to get you started if this is your first Flutter project:
+f. -Signin ![image](https://github.com/user-attachments/assets/4a1f4718-396f-4e61-9ff5-0b2df919ccf1)
+   -Signup ![image](https://github.com/user-attachments/assets/50d42340-65e1-412a-b3bf-c1be7e5d0475)
+   -Home Screen ![image](https://github.com/user-attachments/assets/44920f1e-a8c1-44c8-8618-2851fc66ebdc)
+   -Google Calendar ![image](https://github.com/user-attachments/assets/af51d3d6-8c2c-4592-91ff-4a346586fc06)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
