@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'E-Commerce App',
+      title: 'To-Do List App',
       theme: ThemeData(
         primarySwatch: Colors.orange,
         visualDensity: VisualDensity.adaptivePlatformDensity,
